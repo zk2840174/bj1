@@ -13,5 +13,9 @@
   <form action="/todo/modify/33" method="post">
     <button>Modify</button>
   </form>
+
+  <form action="/todo/remove" method="post">
+    <button>Remove</button>
+  </form>
 </body>
 </html>
